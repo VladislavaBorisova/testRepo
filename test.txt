@@ -1,3 +1,5 @@
 This is test 1
 
 Made some changes
+
+I made a conflict
